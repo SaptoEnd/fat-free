@@ -1,0 +1,18 @@
+{
+    "name": "fohlen/f3-to-go",
+    "description": "A fat-free-framework skeleton app using composer",
+    "license": "GPL-3.0",
+    "config": {
+        "vendor-dir": "lib"
+    },
+    "require": {
+        "bcosca/fatfree-core": "dev-master",
+        "catfan/medoo": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "Fohlen",
+            "email": "lennard@berger.work"
+        }
+    ]
+}
